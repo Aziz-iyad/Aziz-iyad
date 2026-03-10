@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abded El Azeez Iyad 👋
+# Hi, I'm Abdel Azeez Iyad
 ### Senior Flutter Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-abu-safia-9a2595231/)
