@@ -134,8 +134,6 @@ Enterprise mobile platform for managing sales, purchasing, inventory, and accoun
 
 <div align="center">
 
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Aziz-iyad&color=00e6b8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
