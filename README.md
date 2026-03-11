@@ -93,6 +93,7 @@ Enterprise mobile platform for managing sales, purchasing, inventory, and accoun
 </tr>
 </table>
 
+### Portfolio:  [Projects](https://azeeziyad.carrd.co/#projects) 
 ---
 
 ### GitHub Stats
